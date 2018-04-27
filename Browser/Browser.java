@@ -1,5 +1,5 @@
 /*
- * @author Christoph Schallert
+ * @author KnightArtorias10
  * Java-Browser with GUI
  */
 package Browser;
