@@ -1,13 +1,9 @@
 package WebServer;
 /*
- * @author Christoph Schallert
+ * @author KnightArtorias10
  * Simple web-server that accepts get-requests and responses to them.
  */
 import java.io.BufferedReader;
-/*
- * @author Christoph Schallert
- * Simple Webserver
- */
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
